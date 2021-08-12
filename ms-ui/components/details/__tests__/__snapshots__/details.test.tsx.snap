@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check if snapshots are created render snapshots 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM bYAabF"
+  >
+    <header
+      class="sc-gtsrHT kYGifz"
+    >
+      <h4
+        class="sc-dlnjwi ctTxXO"
+      >
+        title
+      </h4>
+    </header>
+    <div
+      class="sc-hKFxyN ePMirl"
+    >
+      <img
+        class="sc-eCApnc iiYCoF"
+        src="http://dummy.url"
+      />
+    </div>
+    <p
+      class="sc-jSFjdj ipSlzg"
+    >
+      this is a test description
+    </p>
+    <div
+      class="sc-gKAaRy bZyPSH"
+    >
+      Chef: dennis
+    </div>
+  </div>
+</div>
+`;
