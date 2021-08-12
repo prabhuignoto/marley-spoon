@@ -1,4 +1,4 @@
-# Marley & Spoon Recipes
+# Marley Spoon Recipes
 
 A Fullstack app for displaying some of the best recipes from Marley & Spoon
 
