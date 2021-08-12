@@ -1,4 +1,4 @@
-# About the Project
+# Marley & Spoon Recipes
 
 A Fullstack app for displaying some of the best recipes from Marley & Spoon
 
@@ -59,6 +59,6 @@ To build the node app as a Docker image
 To build the UI app as a Docker image
 
 ```sh
-  cd ./ms-server
+  cd ./ms-ui
   yarn build:image
 ```
