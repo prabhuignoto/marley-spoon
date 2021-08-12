@@ -11,7 +11,7 @@ The application is made up of two components
 - **ms-ui** - The Frontend is built with Next JS, React, Typescript, Styled Components & Apollo client
 - **ms-server** - A Node express app for serving the data and this is exposed as a Graphql endpoint
 
-## How to run the Projects in development mode
+## How to run the apps in development mode
 
 Please start the Express server first
 
@@ -29,7 +29,7 @@ To start the UI application
   yarn dev
 ```
 
-## To build & start the Projects in production mode
+## To build & start the apps in production mode
 
 Building the node app
 
